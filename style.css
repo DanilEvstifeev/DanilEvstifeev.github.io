@@ -106,58 +106,33 @@ padding: 5px 10px 5px 22px;
 background: url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png) no-repeat 0%/auto;
 }
 
-.page2 h3{
+.picture_1 h3{
 float: left;
-width: 1820px;
-text-align: center;
-color: #cf7600;
-font-weight: 600;
-
-}
-.page2 p{
-float: left;
-text-align: center;
-width: 1820px;
-}
-
-.page2 h2{
-text-align: center;
-font-size: 28px;
-}
-.picture h3{
-float: left;
-width: 520px;
+width: 490px;
 text-align: center;
 color: #cf7600;
 font-weight: 600;
 }
-
-.picture p{
-text-align: center;
-width: 520px;
-}
-.pictupe_2 h3{
+.picture_2 h3{
 float: left;
 width: 1170px;
+text-align: center;
 color: #cf7600;
-text-align: center;
 font-weight: 600;
-}
+	}
 
-.pictupe_2 p{
-width: 1170px;
+.pictupe_3 h3{
+float: left;
+width: 1828px;
 text-align: center;
-}
+color: #cf7600;
+font-weight: 600;
+	}
 
-.picture_3 h3{
+.picture_4 h3{
 float: left;
 width: 2450px;
+text-align: center;
 color: #cf7600;
-text-align: center;
 font-weight: 600;
-}
-
-.picture_3 p{
-width: 2450px;
-text-align: center;
-}
+	}
